@@ -1,0 +1,3 @@
+D:/github/c++/user_consumer/cmake-build-debug/CMakeFiles/user_consumer.dir
+D:/github/c++/user_consumer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/c++/user_consumer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
