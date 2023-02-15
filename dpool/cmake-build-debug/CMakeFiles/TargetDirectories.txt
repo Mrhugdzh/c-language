@@ -1,0 +1,3 @@
+D:/github/c++/dpool/cmake-build-debug/CMakeFiles/dpool.dir
+D:/github/c++/dpool/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/c++/dpool/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"F:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\dpool.dir/objects.a
+"F:\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc CMakeFiles\dpool.dir/objects.a @CMakeFiles\dpool.dir\objects1.rsp
+"F:\CLion 2022.2.4\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\dpool.dir/objects.a -Wl,--no-whole-archive -o dpool.exe -Wl,--out-implib,libdpool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dpool.dir\linklibs.rsp
